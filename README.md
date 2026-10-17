@@ -4,7 +4,7 @@ The desktop app for [felfel.ai](https://felfel.ai). This repository only hosts t
 
 **[Download felfel.ai for Mac](https://github.com/afelfel2016-prog/felfel-desktop/releases/latest/download/felfel.ai.dmg)**
 
-Free · macOS 12 Monterey or later · Apple Silicon and Intel (one universal app)
+Free · macOS 13 Ventura or later · Apple Silicon and Intel (one universal app)
 
 ## What it does
 
@@ -21,7 +21,7 @@ Everything felfel.ai does on the web, plus **Computer mode**: when you allow it,
 2. Drag felfel.ai onto the Applications folder, then eject the disk image.
 3. Open it the first time. This early release isn't notarized by Apple yet, so macOS stops the first launch:
    - **macOS 15 Sequoia or later:** open felfel.ai and click **Done**. Go to **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to the felfel.ai message, and confirm with your password or Touch ID.
-   - **macOS 12–14:** Control-click felfel.ai in Applications, choose **Open**, then click **Open** again.
+   - **macOS 13–14:** Control-click felfel.ai in Applications, choose **Open**, then click **Open** again.
 
 You only do this once per download. Then sign in with email, or with Google: macOS asks whether felfel.ai may sign in (choose **Continue**), you finish in a small sign-in window, and the app signs in by itself.
 
